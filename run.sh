@@ -1,3 +1,3 @@
 #!/bin/bash
 
-GLOG_logtostderr=1 build/gflog -message "Hello World!"
+GLOG_logtostderr=1 build/main -message "Hello World!"
